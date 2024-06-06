@@ -1,1 +1,1 @@
-Ovo je primer ll
+Ovo je primer .
