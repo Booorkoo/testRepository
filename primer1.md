@@ -1,4 +1,4 @@
 Ovo je primer .
 as
 l
-s
+ss
