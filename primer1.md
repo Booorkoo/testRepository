@@ -1,2 +1,1 @@
 Ovo je primer .
-ass
