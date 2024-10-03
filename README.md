@@ -2,9 +2,7 @@
 Ovo je primer .
 
 
-# testRepository
-Ovo je primer .
-
+Borko nema pojma.
 
 
 
