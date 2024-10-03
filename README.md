@@ -7,3 +7,4 @@ Jos jedna izmena.
 
 
 
+I kada bi se ovo izmenilo..
