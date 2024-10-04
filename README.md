@@ -12,5 +12,3 @@ I kada bi se ovo izmenilo..
 # radi
 
 
-
-aa
